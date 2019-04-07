@@ -1,4 +1,4 @@
-*.gitignore
+.gitignore
 *.zip
 2_3_Model Selection/
 dog-project-need/
